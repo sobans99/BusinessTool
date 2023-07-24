@@ -1,6 +1,6 @@
 <h1>Business Manager Tool</h1>
     <p>The Business Manager Tool is a C++ console-based project designed to manage various aspects of a business,
-        including employee management, inventory management, and bill generation.<a href="SCREEN SHOTS OF OUR PROJECT.pdf">Screenshots</a> This tool provides a user-friendly
+        including employee management, inventory management, and bill generation.<a href="SCREEN SHOTS OF OUR PROJECT.pdf">  Screenshots of this project</a> This tool provides a user-friendly
         interface to perform the following tasks:</p>
     <ol>
         <li>
